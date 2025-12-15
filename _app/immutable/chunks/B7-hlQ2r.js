@@ -1,0 +1,1 @@
+import{p as y,q as o,u as p,h as t,o as _,C as g,j as l,v as a,l as d,i as v}from"./DcNNNMeJ.js";function E(n,r){let s=null,f=t;var i;if(t){s=v;for(var e=_(document.head);e!==null&&(e.nodeType!==g||e.data!==n);)e=l(e);if(e===null)a(!1);else{var u=l(e);e.remove(),d(u)}}t||(i=document.head.appendChild(y()));try{o(()=>r(i),p)}finally{f&&(a(!0),d(s))}}export{E as h};
